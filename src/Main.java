@@ -28,7 +28,7 @@ public class Main {
         System.out.println("5 в 3 степени = " + result);
         System.out.println("Число Pi = " + pi);
 
-        System.out.println("Выполнена домашняя работа #1");
+        System.out.println("Выполнена домашняя работа #2");
 
     }
 
