@@ -29,6 +29,7 @@ public class Main {
         System.out.println("Число Pi = " + pi);
 
         System.out.println("Выполнена домашняя работа #2");
+        System.out.println("Выполнена домашняя работа #3");
 
     }
 
